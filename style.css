@@ -1,0 +1,28 @@
+.Heading{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+li,ul,h1{
+    display: inline;
+}
+ul{   
+    margin-left: 70%;;
+}
+li{
+    color: white;
+    cursor: pointer;
+}
+li:hover{
+    color: rgb(22, 201, 19);
+}
+input{
+    width: 600px;
+    padding: 10px;
+}
+.searchbar{
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
